@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D2CBB7BD-1A84-47EB-9E21-1566A18D3209</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Pigotron</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DF025240-B25E-43B0-8F3C-834CBD7820A5</key>
+		<string>ssh://github.com/jflinter/Pigotron.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Pigotron.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DF025240-B25E-43B0-8F3C-834CBD7820A5</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/jflinter/Pigotron.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DF025240-B25E-43B0-8F3C-834CBD7820A5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DF025240-B25E-43B0-8F3C-834CBD7820A5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Pigotron</string>
+		</dict>
+	</array>
+</dict>
+</plist>

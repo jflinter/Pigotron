@@ -7,6 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2B81C1D8DE3A4F0E9AF5B695 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A261EDC1D69847C08C0D3375 /* libPods.a */; };
+		A01D4D181866B78C00AC5DC8 /* alwayswatching.wav in Resources */ = {isa = PBXBuildFile; fileRef = A01D4D121866B78C00AC5DC8 /* alwayswatching.wav */; };
+		A01D4D191866B78C00AC5DC8 /* jesuslovesyou.wav in Resources */ = {isa = PBXBuildFile; fileRef = A01D4D131866B78C00AC5DC8 /* jesuslovesyou.wav */; };
+		A01D4D1B1866B78C00AC5DC8 /* monster.wav in Resources */ = {isa = PBXBuildFile; fileRef = A01D4D151866B78C00AC5DC8 /* monster.wav */; };
+		A01D4D1C1866B78C00AC5DC8 /* sweatshop.wav in Resources */ = {isa = PBXBuildFile; fileRef = A01D4D161866B78C00AC5DC8 /* sweatshop.wav */; };
+		A01D4D1D1866B78C00AC5DC8 /* youresopretty.wav in Resources */ = {isa = PBXBuildFile; fileRef = A01D4D171866B78C00AC5DC8 /* youresopretty.wav */; };
+		A01D4D1F18681C1F00AC5DC8 /* justlikeme.wav in Resources */ = {isa = PBXBuildFile; fileRef = A01D4D1E18681C1F00AC5DC8 /* justlikeme.wav */; };
 		A0AA225618665E30000EFD4F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A0AA225518665E30000EFD4F /* Foundation.framework */; };
 		A0AA225818665E30000EFD4F /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A0AA225718665E30000EFD4F /* CoreGraphics.framework */; };
 		A0AA225A18665E30000EFD4F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A0AA225918665E30000EFD4F /* UIKit.framework */; };
@@ -22,7 +29,6 @@
 		A0AA227F18665E30000EFD4F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = A0AA227D18665E30000EFD4F /* InfoPlist.strings */; };
 		A0AA228118665E30000EFD4F /* PigotronTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A0AA228018665E30000EFD4F /* PigotronTests.m */; };
 		A0AA228C1866629A000EFD4F /* POTSoundManager.m in Sources */ = {isa = PBXBuildFile; fileRef = A0AA228B1866629A000EFD4F /* POTSoundManager.m */; };
-		A0AA228F18666823000EFD4F /* piano2.wav in Resources */ = {isa = PBXBuildFile; fileRef = A0AA228E18666823000EFD4F /* piano2.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +42,13 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		702B449AB68B4A55AC9D0840 /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = "<group>"; };
+		A01D4D121866B78C00AC5DC8 /* alwayswatching.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = alwayswatching.wav; sourceTree = "<group>"; };
+		A01D4D131866B78C00AC5DC8 /* jesuslovesyou.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = jesuslovesyou.wav; sourceTree = "<group>"; };
+		A01D4D151866B78C00AC5DC8 /* monster.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = monster.wav; sourceTree = "<group>"; };
+		A01D4D161866B78C00AC5DC8 /* sweatshop.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = sweatshop.wav; sourceTree = "<group>"; };
+		A01D4D171866B78C00AC5DC8 /* youresopretty.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = youresopretty.wav; sourceTree = "<group>"; };
+		A01D4D1E18681C1F00AC5DC8 /* justlikeme.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = justlikeme.wav; sourceTree = "<group>"; };
 		A0AA225218665E30000EFD4F /* Pigotron.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Pigotron.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A0AA225518665E30000EFD4F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		A0AA225718665E30000EFD4F /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -57,7 +70,7 @@
 		A0AA228018665E30000EFD4F /* PigotronTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PigotronTests.m; sourceTree = "<group>"; };
 		A0AA228A1866629A000EFD4F /* POTSoundManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = POTSoundManager.h; sourceTree = "<group>"; };
 		A0AA228B1866629A000EFD4F /* POTSoundManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = POTSoundManager.m; sourceTree = "<group>"; };
-		A0AA228E18666823000EFD4F /* piano2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = piano2.wav; sourceTree = "<group>"; };
+		A261EDC1D69847C08C0D3375 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +81,7 @@
 				A0AA225818665E30000EFD4F /* CoreGraphics.framework in Frameworks */,
 				A0AA225A18665E30000EFD4F /* UIKit.framework in Frameworks */,
 				A0AA225618665E30000EFD4F /* Foundation.framework in Frameworks */,
+				2B81C1D8DE3A4F0E9AF5B695 /* libPods.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -91,6 +105,7 @@
 				A0AA227A18665E30000EFD4F /* PigotronTests */,
 				A0AA225418665E30000EFD4F /* Frameworks */,
 				A0AA225318665E30000EFD4F /* Products */,
+				702B449AB68B4A55AC9D0840 /* Pods.xcconfig */,
 			);
 			sourceTree = "<group>";
 		};
@@ -110,6 +125,7 @@
 				A0AA225718665E30000EFD4F /* CoreGraphics.framework */,
 				A0AA225918665E30000EFD4F /* UIKit.framework */,
 				A0AA227418665E30000EFD4F /* XCTest.framework */,
+				A261EDC1D69847C08C0D3375 /* libPods.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -163,7 +179,12 @@
 		A0AA228D18666814000EFD4F /* Sounds */ = {
 			isa = PBXGroup;
 			children = (
-				A0AA228E18666823000EFD4F /* piano2.wav */,
+				A01D4D1E18681C1F00AC5DC8 /* justlikeme.wav */,
+				A01D4D121866B78C00AC5DC8 /* alwayswatching.wav */,
+				A01D4D131866B78C00AC5DC8 /* jesuslovesyou.wav */,
+				A01D4D151866B78C00AC5DC8 /* monster.wav */,
+				A01D4D161866B78C00AC5DC8 /* sweatshop.wav */,
+				A01D4D171866B78C00AC5DC8 /* youresopretty.wav */,
 			);
 			name = Sounds;
 			sourceTree = "<group>";
@@ -175,9 +196,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = A0AA228418665E30000EFD4F /* Build configuration list for PBXNativeTarget "Pigotron" */;
 			buildPhases = (
+				69039F8361DB45ACBB640E84 /* Check Pods Manifest.lock */,
 				A0AA224E18665E30000EFD4F /* Sources */,
 				A0AA224F18665E30000EFD4F /* Frameworks */,
 				A0AA225018665E30000EFD4F /* Resources */,
+				DAC9315D0B84455A9DE5AF15 /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -245,10 +268,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A01D4D1B1866B78C00AC5DC8 /* monster.wav in Resources */,
+				A01D4D181866B78C00AC5DC8 /* alwayswatching.wav in Resources */,
+				A01D4D1F18681C1F00AC5DC8 /* justlikeme.wav in Resources */,
 				A0AA226E18665E30000EFD4F /* Images.xcassets in Resources */,
 				A0AA226018665E30000EFD4F /* InfoPlist.strings in Resources */,
+				A01D4D1D1866B78C00AC5DC8 /* youresopretty.wav in Resources */,
+				A01D4D191866B78C00AC5DC8 /* jesuslovesyou.wav in Resources */,
 				A0AA226918665E30000EFD4F /* Main.storyboard in Resources */,
-				A0AA228F18666823000EFD4F /* piano2.wav in Resources */,
+				A01D4D1C1866B78C00AC5DC8 /* sweatshop.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -261,6 +289,39 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		69039F8361DB45ACBB640E84 /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		DAC9315D0B84455A9DE5AF15 /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Pods-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		A0AA224E18665E30000EFD4F /* Sources */ = {
@@ -394,6 +455,7 @@
 		};
 		A0AA228518665E30000EFD4F /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 702B449AB68B4A55AC9D0840 /* Pods.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -407,6 +469,7 @@
 		};
 		A0AA228618665E30000EFD4F /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 702B449AB68B4A55AC9D0840 /* Pods.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -479,6 +542,7 @@
 				A0AA228618665E30000EFD4F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A0AA228718665E30000EFD4F /* Build configuration list for PBXNativeTarget "PigotronTests" */ = {
 			isa = XCConfigurationList;
@@ -487,6 +551,7 @@
 				A0AA228918665E30000EFD4F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

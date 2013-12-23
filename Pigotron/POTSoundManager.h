@@ -13,5 +13,6 @@
 + (instancetype) sharedManager;
 
 - (void) playRandomSound;
+- (void) playSoundNamed:(NSString *)name;
 
 @end
